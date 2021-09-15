@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lalu Kumar</h1>
 <h3 align="center">I am Lalu Kumar,an exuberant tech enthusiast,and a self taught programmer.Even though I am not an impeccable programmer,I love the world of coding,I am trying to craete magic with 0,s and 1's</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_10798281.htm#&position=0">
+<img align="left" alt="Coding" width="200"  src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ldass2000&label=Profile%20views&color=0e75b6&style=flat" alt="ldass2000" /> </p>
 
