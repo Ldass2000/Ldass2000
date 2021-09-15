@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lalu Kumar</h1>
 <h3 align="center">I am Lalu Kumar,an exuberant tech enthusiast,and a self taught programmer.Even though I am not an impeccable programmer,I love the world of coding,I am trying to craete magic with 0,s and 1's</h3>
 
-<img align="left" alt="Coding" width="200"  src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
+<img align="left" alt="Coding" width="200"  src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ldass2000&label=Profile%20views&color=0e75b6&style=flat" alt="ldass2000" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ldass2000&label=Profile%20views&color=0e75b6&style=flat" alt="ldass2000" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ldass2000" alt="ldass2000" /></a> </p>
+<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ldass2000" alt="ldass2000" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/darshanviratian" target="blank"><img src="https://img.shields.io/twitter/follow/darshanviratian?logo=twitter&style=for-the-badge" alt="darshanviratian" /></a> </p>
 
