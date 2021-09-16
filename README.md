@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
 <p align="left"> <a href="https://twitter.com/darshanviratian" target="blank"><img src="https://img.shields.io/twitter/follow/darshanviratian?logo=twitter&style=for-the-badge" alt="darshanviratian" /></a> </p>
 
-- 🌱 I’m currently working on **Xwarriors(raect native app)**
+- 🌱 I’m currently working on **Xwarriors(react native app)**
 
 - 👻 I’m currently learning **React native**
 
