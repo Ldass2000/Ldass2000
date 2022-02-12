@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react, nodejs, css**
 
-- 📫 How to reach me **dassdazzer143@gmail.com**
+- 📫 How to reach me **kumarlalu.cse@gmail.com**
 
 - ⚡ Fun fact **I think i am Introver 🙄**
 
