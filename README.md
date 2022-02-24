@@ -4,10 +4,10 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 
-- 🎓 &nbsp; I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
-- 💼 &nbsp; I’m currently learning backend web development using NodeJS, ExpressJS and MongoDB,Data Structures and Algorithms.
+- 🎓 &nbsp; I'm  final year undergraduate computer Science student who is passionate about writing code, solving problems, automating stuff, and building software.
+- 💼 &nbsp; I’m currently learning backend web development using NodeJS, ExpressJS and MongoDB.
 - 🌱 &nbsp; Passionate to contribute open-source projects and make cool products.
-- 💬 &nbsp; Hobbies : Reading Novels and Writing Blogs 
+- 💬 &nbsp; Hobbies : Reading Novels and Writing Blogs.
 - 😅 &nbsp; Pronouns: He/His/Him
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -36,7 +36,7 @@
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+  ![Figma](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
 <br/>
 
@@ -53,7 +53,20 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/kumarlalu/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-kumar%20lalu-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailtokumarlalu.cse@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kumarlalu.cse-blue?style=flat-square&logo=gmail"></a>
- <a href="https://twitter.com/dass_dazzer"><img alt="Twitter" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fdass_dazzer"></a>
+<a href="https://twitter.com/dass_dazzer"><img alt="Twitter" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fdass_dazzer"></a>
+<a href="https://leetcode.com/lalukumardass/"<img alt="Leetcode" src=""></a>
+<a href="https://auth.geeksforgeeks.org/user/dassdazzer123/practice/"<img alt="Geeksforgeeks" src=""></a>
+<a href="https://www.hackerrank.com/dassdazzer123"<img alt="HackerRank" src=""></a>
 </p>
+
+##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
+<!-- wi*quL3fcV -->
+
+```javascript
+// Which came first: the chicken or the egg?
+console.log(['🥚', '🐣', '🐥', '🐔'].sort())
+
+>>> [ '🐔', '🐣', '🐥', '🥚' ]
+```
 
 ⭐️ From [Lalu Kumar](https://github.com/Ldass2000)
