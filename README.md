@@ -12,7 +12,7 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp;
+-  💻 &nbsp;
 -  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
    ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
    ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
@@ -54,9 +54,6 @@
 <a href="https://www.linkedin.com/in/kumarlalu/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-kumar%20lalu-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailtokumarlalu.cse@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kumarlalu.cse-blue?style=flat-square&logo=gmail"></a>
 <a href="https://twitter.com/dass_dazzer"><img alt="Twitter" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fdass_dazzer"></a>
-<a href="https://leetcode.com/lalukumardass/"<img alt="Leetcode" src=""></a>
-<a href="https://auth.geeksforgeeks.org/user/dassdazzer123/practice/"<img alt="Geeksforgeeks" src=""></a>
-<a href="https://www.hackerrank.com/dassdazzer123"<img alt="HackerRank" src=""></a>
 </p>
 
 ##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
