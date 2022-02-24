@@ -5,9 +5,9 @@
 
 
 - 🎓 &nbsp; I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
-- 💼 &nbsp; I’m currently learning backend web development using NodeJS, ExpressJS and MongoDB.
+- 💼 &nbsp; I’m currently learning backend web development using NodeJS, ExpressJS and MongoDB,Data Structures and Algorithms.
 - 🌱 &nbsp; Passionate to contribute open-source projects and make cool products.
-- 🍎 &nbsp; 
+- 💬 &nbsp; Hobbies : Reading Novels and Writing Blogs 
 - 😅 &nbsp; Pronouns: He/His/Him
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
