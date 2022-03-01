@@ -12,10 +12,10 @@
 
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kumarlalu.cse@gmail.com)](mailto:kumarlalu.cse@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kumarlalu/)](https://www.linkedin.com/in/kumarlalu/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lalu123/)](https://www.linkedin.com/in/lalu123/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/dass_dazzer)
 
-[![Pranay's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Ldass2000&theme=xcode)](https://github.com/Ldass2000)
+[![Lalu's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Ldass2000&theme=xcode)](https://github.com/Ldass2000)
 
 ## 👨🏻‍💻 Coding Profiles
 
