@@ -6,7 +6,7 @@
 
 - 🎓 &nbsp; I'm  final year undergraduate computer Science student who is passionate about writing code, solving problems, automating stuff, and building software.
 - 💼 &nbsp; I’m currently learning backend web development using NodeJS, ExpressJS and MongoDB.
-- 🌱 &nbsp; Passionate to contribute open-source projects and make cool products.
+- 🌱 &nbsp; Passionate about Backend Development and make cool products.
 - 💬 &nbsp; Hobbies : Reading Novels and Writing Blogs.
 - 😅 &nbsp; Pronouns: He/His/Him
 
