@@ -5,7 +5,7 @@
 
 
 - 🎓 &nbsp; I'm  final year undergraduate computer Science student who is passionate about writing code, solving problems, automating stuff, and building software.
-- 💼 &nbsp; I’m currently learning backend web development using NodeJS, ExpressJS and MongoDB.
+- 💼 &nbsp; I’m currently learning Microservices .
 - 🌱 &nbsp; Passionate about Backend Development and make cool products.
 - 🦖 &nbsp; Love solving problem to make an impact.
 - 💬 &nbsp; Hobbies : Reading Novels and Writing Blogs.
