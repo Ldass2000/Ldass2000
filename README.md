@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 
-- 🎓 &nbsp; I'm  final year undergraduate computer Science student who is passionate about writing code, solving problems, automating stuff, and building software.
+- 🎓 &nbsp; I'm   Science graduate who is passionate about writing code, solving problems, automating stuff, and building software.
 - 💼 &nbsp; I’m currently learning Microservices .
 - 🌱 &nbsp; Passionate about Backend Development and make cool products.
 - 🦖 &nbsp; Love solving problem to make an impact.
@@ -20,8 +20,8 @@
 
 ## 👨🏻‍💻 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/lalukumardass/)
-[![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-05CC47?style=flat-square&logo=GeeksForGeeks&logoColor=black)](https://auth.geeksforgeeks.org/user/dassdazzer123/practice/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/Lumber_get12/)
+[![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-05CC47?style=flat-square&logo=GeeksForGeeks&logoColor=black)](https://auth.geeksforgeeks.org/user/dassdazzer123)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/dassdazzer123)
 
 
@@ -29,16 +29,18 @@
 
 ### Language
 
-![Java](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![java](https://github.com/Ldass2000/Ldass2000/assets/83582883/d843bf99-5bd8-4ef1-967c-d9b025814285)
+![js](https://github.com/Ldass2000/Ldass2000/assets/83582883/3adcb87c-ccf4-4970-b45f-8cfaecc22637)
+![cpp](https://github.com/Ldass2000/Ldass2000/assets/83582883/25ee2298-76eb-46f8-8ce2-1547b10f66d6)
+![csss](https://github.com/Ldass2000/Ldass2000/assets/83582883/0a849ea5-59df-41f5-8a34-286e9a5f7685)
+![html](https://github.com/Ldass2000/Ldass2000/assets/83582883/028477ea-faf8-4e37-8854-d59685daacc9)
 
 
 ### Libraries & Framework
 
-https://img.shields.io/badge/springboot
+![springboott](https://github.com/Ldass2000/Ldass2000/assets/83582883/92107bab-e89b-486e-b563-a364eed1349d)
+![react](https://github.com/Ldass2000/Ldass2000/assets/83582883/5439f554-d7e4-44bd-9b73-dc0c9991aab0)
+
 
 
 ### Database
